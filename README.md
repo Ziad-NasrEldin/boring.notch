@@ -1,5 +1,9 @@
 # Boring Notch
 
+<p align="center">
+  <img src="docs/hero.png" alt="Boring Notch" width="900">
+</p>
+
 This is Ziad's fork of [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch).
 
 Say hello to **Boring Notch**, the coolest way to make your MacBook's notch the star of the show. Your notch transforms into a dynamic music control center, complete with a visualizer and music controls, plus calendar integration, a file shelf with AirDrop support, and a complete macOS HUD replacement.
